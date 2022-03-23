@@ -10,6 +10,7 @@ Just go to a project that has an RFC group and look for an issue named "RFC Grou
 
 ```
 **Name:** FirstName (or whatever you want to be called)
+
 **Discord:** username#1234
 ```
 
