@@ -9,7 +9,7 @@ The Request for Comments (RFC) group is a way that you can help us make games by
 Just go to a project that has an RFC group and look for an issue named "RFC Group Signup" and comment on it with your GitLab account using the following template:
 
 ```
-**Name:** FirstName
+**Name:** FirstName (or whatever you want to be called)
 **Discord:** username#1234
 ```
 
