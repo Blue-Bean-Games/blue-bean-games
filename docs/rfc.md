@@ -6,7 +6,13 @@ The Request for Comments (RFC) group is a way that you can help us make games by
 
 ## How do I sign up?
 
-Just go to a project that has an RFC group and look for an issue named "RFC Group Signup" and comment on it with your GitLab account.
+Just go to a project that has an RFC group and look for an issue named "RFC Group Signup" and comment on it with your GitLab account using the following template:
+
+```
+**Name:** FirstName
+**Discord:** username#1234
+**Email:** user@domain.tld
+```
 
 For convenience, here's a list of projects we have RFC groups for:
 
