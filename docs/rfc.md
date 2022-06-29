@@ -16,4 +16,5 @@ Just go to a project that has an RFC group and look for an issue named "RFC Grou
 
 For convenience, here's a list of projects we have RFC groups for:
 
-- [Perturbed](https://gitlab.com/blue-bean-games/perturbed/-/issues/9)
+- [Perturbed](https://gitlab.com/unnamed-dot-group/blue-bean-games/perturbed/-/issues/9)
+- [Unnamed Fantasy Project](https://gitlab.com/unnamed-dot-group/blue-bean-games/unnamed-fantasy-project/-/issues/1)
